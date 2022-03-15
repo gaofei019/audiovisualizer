@@ -1,0 +1,25 @@
+{
+  "name": "audiovisualizer",
+  "version": "0.0.1",
+  "description": "audio visualizer plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaofei019/audiovisualizer.git"
+  },
+  "keywords": [
+    "audio",
+    "visualizer",
+    "visual",
+    "audiovisualizer"
+  ],
+  "author": "Kevin Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaofei019/audiovisualizer/issues"
+  },
+  "homepage": "https://github.com/gaofei019/audiovisualizer#readme"
+}
